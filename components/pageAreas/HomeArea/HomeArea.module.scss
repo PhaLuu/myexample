@@ -1,0 +1,10 @@
+@use '../../../styles/sass/abstracts/'as *;
+
+.homeArea {
+    min-height: 800px;
+
+    .infoBox{
+        font-size: 20rem;
+    }
+    
+}

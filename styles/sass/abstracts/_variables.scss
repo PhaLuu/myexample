@@ -1,0 +1,17 @@
+// VARIABLES
+@font-face {
+    font-family: 'Abc';
+    src: url('../../../public/fonts/zubajda.grng.ttf');
+    font-weight: 400;
+    font-style: normal;
+    }
+// TYPOGRAPHY
+$primary-font: 'Abc','Roboto', sans-serif;
+
+//scrren size
+$xs-size: 575px;
+$sm-size: 576px;
+$md-size: 768px;
+$lg-size: 992px;
+$xl-size: 1200px;
+$xxl-size: 1400px;
